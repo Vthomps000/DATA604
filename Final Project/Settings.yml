@@ -1,0 +1,44 @@
+# Settings
+
+# Library Settings
+library:
+ name : 'Thompson Library'
+ openHour : '08.00'
+ closeHour : '20.00'
+ membershipOptions:
+   - -1
+   - 0
+ book:
+  titles: 
+  - Detoxifying Your Body
+  - Keto Diet
+  - Quantum Mechanics For Dummies
+  - Modeling and Simulation in Python
+  - Social Network Analysis for Startups
+
+ 
+
+# Student Settings
+student:
+  studentName: 
+  - Elizha
+  - John
+  - Christopher
+  - Vanita
+  - Keanu
+  - Will
+  - Jamie
+  - Martin
+  - Robin
+  - Jennifer
+  studentSurname:
+  - Alvarez
+  - Walker
+  - Colombus
+  - Thompson
+  - Reeves
+  - Smith
+  - Foxx
+  - Lawrence
+  - Fenty
+  - Lopez
